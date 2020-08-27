@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # manage-train
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# manage-train
+>>>>>>> 88c396312ecf937380a5c341e98f44e0ffb5a689

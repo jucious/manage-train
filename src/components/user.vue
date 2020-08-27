@@ -9,7 +9,7 @@
       <el-row :gutter="20">
         <el-col :span="8">
           <el-input
-            placeholder="请输入内容"
+            placeholder="请输入内容w"
             v-model="queryInfo.query"
             class="input-with-select"
             clearable
